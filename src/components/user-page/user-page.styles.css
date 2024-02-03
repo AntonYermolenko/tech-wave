@@ -1,0 +1,6 @@
+.user-page-container{
+    font-size: large;
+    padding: 50px 0px;
+    display: grid;
+    justify-content: center;
+}

@@ -1,0 +1,32 @@
+.cart-item-container{
+    height: 90px;
+    position: relative;
+    display: flex;
+    
+    img{
+        padding: 10px;
+        height:50px;
+        width: 50px;
+    }
+    span{
+        position: absolute;
+        font-size: 15px;
+        left: 70px;
+        bottom: 16px;
+    }
+    .item-name{
+        position: absolute;
+        bottom: 40px;
+        font-size: 14px;
+    }
+    .item-price{
+        position: absolute;
+        right: 10px;
+        top: 30px;
+        font-size: 14px;
+
+    }
+    button{
+        bottom:20px;
+    }
+}

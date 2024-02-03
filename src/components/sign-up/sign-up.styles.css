@@ -1,0 +1,76 @@
+.sign-up-container{
+    display: flex;
+    justify-content: center;
+}
+
+.sign-up-form{
+    padding: 25px 50px;
+    display: grid;
+    border: 3px solid lightgray;
+    margin: 80px;
+    justify-content: center;
+    font-family: "Roboto" ;
+
+}
+
+.sign-up{
+    font-weight: 800;
+    font-size: x-large;
+    
+}
+.sign-up-input{
+    width: 330px;
+    margin: 10px 0px;
+    padding: 5px 0;
+    font-family: "Roboto" ;
+    border: 2px solid rgb(160, 160, 160);
+    padding-left: 5px;
+    font-family: inherit;
+    font-weight: inherit;
+    outline: none;
+    padding: 10px;
+    
+}
+
+.sign-up-text-field{
+    position: relative;
+    
+}
+
+.sign-up-label{
+    color:rgb(160, 160, 160);
+    position: absolute;
+    left: 15px;
+    top: 20px;
+    background-color: white;
+    padding: 0 3px;
+    pointer-events: none;
+    transition: 
+    top 150ms ease-in,
+    left 150ms ease-in,
+    font-size 150ms ease-in;
+}
+
+.sign-up-input:focus ~ .sign-up-label,
+.sign-up-input:not(:placeholder-shown).sign-up-input:not(:focus) ~ .sign-up-label
+{
+    top: 1px;
+    left: 12px;
+    font-size: 13px;
+
+}
+
+.sign-up-button{
+    padding: 10px;
+    width: 100%;
+    border: none;
+    background-color: lightgrey;
+    font-family: inherit;
+    font-weight: 800;
+
+}
+
+.sign-up-button:hover{
+    background-color: rgb(200, 200, 200);
+    
+}

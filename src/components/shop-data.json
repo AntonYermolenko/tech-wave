@@ -1,0 +1,121 @@
+[
+    {
+        "title": "hardware",
+        "items": [{
+            "id": 1,
+            "name": "AMD Ryzen 7 5600G",
+            "imageUrl": ["https://img.computerunivers.net/cp/images/544x544/210805130829600601900012K",
+            "https://img.computerunivers.net/cp/images/544x544/210616092109400701900099D"
+            ],
+            "specification":["High End Hexa Core CPU, Boxed with heatsink for Sockel AM4", "65 W TDP6 Cores / 12 Threads",
+            "AMD Radeon™ Graphics integrated Basistakt: 3.90 GHz", "Turbo clock: 4.40 GHz 19 MB L3 cache"],
+            "price": 199.59,
+            "subCategory": "processor"
+        },
+        {   
+            "id": 2,
+            "name": "AMD Ryzen 7 5800X Box",
+            "imageUrl": ["https://img.computerunivers.net/cp/images/544x544/201103070424300701900002I",
+            "https://img.computerunivers.net/cp/images/544x544/201012140724600701900151A"
+            ],
+            "specification":["High End Octa Core CPU", "Boxed (without heatsink)",
+            "for Sockel AM4", "105 W TDP 8 Cores / 16 Threads Basistakt: 3.80 GHz", "Turbo clock: 4.70 GHz 32 MB L3 cache", "Unlocked multiplier"],
+            "price": 187.79,
+            "subCategory": "processor"
+        },
+        {
+            "id":3,
+            "name":"ASUS ProArt GeForce RTX 4070 OC",
+            "imageUrl":["https://img.computerunivers.net/images/1000/909326628532F8EAF39945D99D3A8499.jpg",
+            "https://img.computerunivers.net/images/1000/90932662C39F9227EF6D4791882AB3D4.jpg",
+            "https://img.computerunivers.net/images/1000/9093266272B3DD57A64345149032ADD4.jpg",
+            "https://img.computerunivers.net/cp/images/544x544/230505160617901001900174I"
+            ],
+            "specification":["NVIDIA® GeForce® RTX 4070, Overclocked","12 GB GDDR6X (192bit), Connection via PCIe 4.0",
+            "Active Cooling (Tri-Slot)","1x HDMI, 3x DisplayPort", "Power Supply: 1x 8pin, 1x 16pin (12VHPWR), 750 W PSU recommended"
+            ],
+            "price": 748.34,
+            "subCategory": "graphic card"
+        },
+        {
+            "id":4,
+            "name":"be quiet! Straight Power 11 Platinum 750 Watt",
+            "imageUrl":[
+            "https://img.computerunivers.net/images/1000/9079033130DA7A3228A74C45838B2ECF.jpg",
+            "https://img.computerunivers.net/images/1000/90790333DFE489C8AC494B6B9C6B5C13.jpg",
+            "https://img.computerunivers.net/images/1000/90790331B3EE5FF76A4147739BE5DE61.jpg"
+            ],
+            "specification":["750 Watt", "ATX", "active PFC 11x SATA", "4x Molex 4x PCIe 8pin", 
+            "activee-cooling, 1x 135 mm fan", "80 PLUS Platinum certificate", "Cable Management"
+            ],
+            "price": 142.43,
+            "subCategory": "power supply"
+        },
+        {
+            "id": 5,
+            "name": "Intel Core i9-13900KS Boxed",
+            "imageUrl":[
+            "https://img.computerunivers.net/cp/images/544x544/221129071247700301900044Y",
+            "https://img.computerunivers.net/cp/images/544x544/221129071247700301900046M",
+            "https://img.computerunivers.net/cp/images/544x544/221129071247900301900048Y",
+            "https://img.computerunivers.net/cp/images/544x544/221129071247200301900054E"
+            ],
+            "specification":["Enthusiast 24-Core CPU", "Boxed (without heatsink) for Sockel 1700", "150 W TDP 24 Cores / 32 Threads",
+            "Intel® UHD Graphics 770 integrated Basistakt: 2.40 GHz", "Turbo clock: 4.30 GHz 36 MB L3 cache", "Unlocked multiplier"
+            ],
+            "price": 752.40,
+            "subCategory": "processor"
+
+        },
+        {
+            "id": 6,
+            "name": "ASUS ROG MAXIMUS Z690 EXTREME",
+            "imageUrl":[
+            "https://img.computerunivers.net/cp/images/544x544/211026114032800701900236O",
+            "https://img.computerunivers.net/cp/images/544x544/211026114037500701900242F",
+            "https://img.computerunivers.net/cp/images/544x544/211123160233801101900004W",
+            "https://img.computerunivers.net/cp/images/544x544/211026114036500701900240X",
+            "https://img.computerunivers.net/cp/images/544x544/211026114034300701900238C"
+            ],
+            "specification":[ "ATX, Sockel 1700 Intel Z690", "4x DDR5 up to 128 GB 2x PCIe (x16)", "1x PCIe (x1)", "SLI 6x SATA3, 5x M.2", 
+            "1x 10GBase-T / 1x 2.5GBase-T 3x USB 3.1 Gen2 Typ C", "7x USB 3.1 Gen2, 4x USB 3.1 Gen1"," 4x USB2.0 2x Thunderbolt 4, HDMI, Bluetooth"
+            ],
+            "price": 1154.50,
+            "subCategory": "motherboard"
+
+        },
+        {
+            "id": 7,
+            "name": "ASUS ProArt X670E-CREATOR WIFI",
+            "imageUrl":[
+            "https://img.computerunivers.net/cp/images/544x544/220915153249800501900095X",
+            "https://img.computerunivers.net/cp/images/544x544/220915153249000501900093Y",
+            "https://img.computerunivers.net/cp/images/544x544/220915153048100501900072M",
+            "https://img.computerunivers.net/cp/images/544x544/220915153248600501900089O",
+            "https://img.computerunivers.net/cp/images/544x544/220915153248200501900083O"
+            ],
+            "specification":[ "ATX, Sockel AM5 AMD X670", "4x DDR5 up to 128 GB 3x PCIe (x16) 4x SATA3", 
+            "4x M.2, WiFi, 1x 2.5GBase-T 2x USB 3.1 Gen2 Typ C", "7x USB 3.1 Gen2, 1x USB 3.1 Gen1, 5x USB2.0","HDMI, Bluetooth"
+            ],
+            "price": 493.40,
+            "subCategory": "motherboard"
+
+        },
+        {
+            "id": 8,
+            "name": "GIGABYTE Z790 AORUS XTREME X",
+            "imageUrl":[
+            "https://img.computerunivers.net/cp/images/544x544/230927142719700901900008T",
+            "https://img.computerunivers.net/cp/images/544x544/230927142719400901900010I",
+            "https://img.computerunivers.net/cp/images/544x544/230927142720700901900016W"
+            ],
+            "specification":[
+             "Intel HD Graphics Grafik 128 GB max. RAM", "DDR5 8266MHz 10x USB 3.2"," 9x USB 3.0, 4x USB 2.0, 1xUSB-C", "RGB-Lighting"
+            ],
+            "price": 1230.99,
+            "subCategory": "motherboard"
+        }
+    ]
+    }
+
+]
