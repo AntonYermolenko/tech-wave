@@ -14,7 +14,7 @@ function App() {
   return (
       <BrowserRouter>
           <Routes>
-            <Route path="/tech-wave" element={<Home />} >
+            <Route path="/" element={<Home />} >
               <Route path="/" element={<ProductCarousel />} />
               <Route path="user" element={<Authentication />}/>
               <Route path="checkout" element={<Checkout />}/>
