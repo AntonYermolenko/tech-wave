@@ -116,6 +116,42 @@
             "subCategory": "motherboard"
         }
     ]
+    },
+    {
+        "title": "computer&office",
+        "items": [{  
+            "id": 9,
+            "name": "Microsoft Ergonomic Desktop RJY-00006",
+            "imageUrl":[
+            "https://img.computerunivers.net/cp/images/544x544/231128131733800301900053Y",
+            "https://img.computerunivers.net/cp/images/544x544/231128131733200301900045L",
+            "https://img.computerunivers.net/cp/images/544x544/231128131733100301900041U"
+            ],
+            "specification":[
+            "Wired USB 2.0, full speed, Type A",
+            "Mouse tracking system: Microsoft BlueTrack™ Technology",
+            "Imaging rate: Dynamically adaptable to 3000 frames per second", 
+            "X-Y resolution: 1000 points per inch (39.4 points per millimeter)"
+            ],
+            "price": 89,
+            "subCategory": "mouse&keyboard"
+        },
+        {  
+            "id": 10,
+            "name": "HP DeskJet 2720e Ink Jet Multi function printer",
+            "imageUrl":[
+            "https://img.computerunivers.net/cp/images/544x544/210428141118200301900002V",
+            "https://img.computerunivers.net/cp/images/544x544/210428141141600301900016N",
+            "https://img.computerunivers.net/cp/images/544x544/210428141144500301900024I",
+            "https://img.computerunivers.net/cp/images/544x544/210428141142500301900020F"
+            ],
+            "specification":[
+            "up to 5.5 ppm color, up to 7.5 ppm b/w (ISO)", "USB","AirPrint, Instant Ink", "up to 60 Sheets Media capacity"
+            ],
+            "price": 69,
+            "subCategory": "printer"
+        }
+    ]
     }
 
 ]

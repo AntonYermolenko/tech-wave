@@ -8,13 +8,16 @@ import "./product-page.styles.scss"
 
 
 
-export const ProductInfo = ( {categoriesMap} ) => {
+export const  ProductInfo = ( {categoriesMap} ) => {
     const { addItemToCart } = useContext(CartContext); 
     const { productId } = useParams();  
-    const product = categoriesMap.find((product) => product.id == productId);
+
+    const Categories = Object.values(categoriesMap).map((category) => category.find((product) => product.id == productId));
+    const product = Categories.find((product) => product !== undefined );
     const {name, imageUrl, price, specification, id } = product
     const [ image, setImage ] = useState(imageUrl[0])
-        
+      
+
     const onMouseOverHandler = (event) => {
         setImage(event.target.src)
     }

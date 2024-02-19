@@ -3,12 +3,12 @@ import { useContext, useState } from "react";
 import { CategoriesContext } from "../../contexts/categories.context";
 import { useEffect } from "react";
 
-export const HardwareData = () => {
+export const ComputerAndOffice = () => {
     const { categoriesMap } = useContext(CategoriesContext);
-    const [ products , setProducts ]  = useState(categoriesMap['hardware']);
-    
+    const [ products , setProducts ]  = useState(categoriesMap['computer&office']);
+
     useEffect(() => {
-        setProducts(categoriesMap['hardware'])
+        setProducts(categoriesMap['computer&office'])
     }, [categoriesMap]); 
     
     return(
