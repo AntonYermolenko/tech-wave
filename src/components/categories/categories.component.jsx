@@ -17,7 +17,7 @@ const categories = [
         id: 2,
         title: "Computer & Office",
         image: mouse,
-        route: "/coumputer&office",
+        route: "/computer&office",
     },
     {
         id: 3,
@@ -29,7 +29,7 @@ const categories = [
         id: 4,
         title: "Games & Entertainment",
         image: gamepad,
-        route: "/entertainment",
+        route: "/games&entertainment",
     },
 ]
 

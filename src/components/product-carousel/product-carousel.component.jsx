@@ -18,21 +18,21 @@ const images = [
 const CategoryImages = [
     {
         "id": 1,
-        "title": "Graphic Cards",
-        "ImageUrl": "https://www.notebookcheck.net/fileadmin/_processed_/4/a/csm_Untitled6899_508d4b2fc3.jpg",
-        "path": "graphic-cards"
+        "title": "Games And Entertainment",
+        "ImageUrl": "https://media.wired.co.uk/photos/606d9ac97aff197af7c729a6/master/w_1600%2Cc_limit/xbox-series-x.jpg",
+        "path": "games&entertainment"
     },
     {
         "id": 2,
-        "title": "Processors",
-        "ImageUrl": "https://cdn.vox-cdn.com/thumbor/ryv1T3KGIqmH8LOkOrtTAo-eRO4=/0x0:2420x2071/2000x1333/filters:focal(1210x1036:1211x1037)/cdn.vox-cdn.com/uploads/chorus_asset/file/24054838/AMD_Ryzen_7000_Desktop_CPU_Lineup_low_res_scale_4_00x_Custom.png",
-        "path": "processors"
+        "title": "Computer And Office",
+        "ImageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/04/printers-2048px-09301-3x2-1.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+        "path": "computer&office"
     },
     {
         "id": 3,
-        "title": "Motherboards",
-        "ImageUrl": "https://cdn.mos.cms.futurecdn.net/Ze6XggwqCN3H8svBucnSjG-1200-80.jpg",
-        "path": ""
+        "title": "Hardware ",
+        "ImageUrl": "https://www.notebookcheck.net/fileadmin/_processed_/4/a/csm_Untitled6899_508d4b2fc3.jpg",
+        "path": "hardware"
 
     }
 ]
@@ -64,7 +64,7 @@ export const ProductCarousel = ({ImageUrls}) => {
                 <div style={{overflow: "hidden", height: "100%", width: "100%", display: "flex", "border-radius": "20px"}} >
                     {CategoryImages.map(({ImageUrl,path}) => (
                         <div className='carousel-img'>
-                            <Link to={`/hardware/${path}`}  >
+                            <Link to={`/${path}`}  >
                                 <img src={ImageUrl} className='carousel-img' style={{ translate: `${-100 * imageIndex}%` }}/>
                             </Link>
                         </div>

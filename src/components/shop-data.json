@@ -150,8 +150,323 @@
             ],
             "price": 69,
             "subCategory": "printer"
+        },
+        {  
+            "id": 11,
+            "name": "Canon MAXIFY MB5450 ",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/160602164857300701900072V",
+                "https://img.computerunivers.net/cp/images/544x544/160602164855800701900070Q"
+         
+            ],
+            "specification":[
+                "2,500 mono/1,500 colour pages", 
+                "Productive paper handling",
+                "Easy-to-use 8.8 cm (3.5”) touch screen",
+                "Tablet and smartphone ready"
+            ],
+            "price": 169.90 ,
+            "subCategory": "printer"
+        },
+        {  
+            "id": 12,
+            "name": "HP OfficeJet 200 Mobile",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/160808163804400701900077N",
+                "https://img.computerunivers.net/cp/images/544x544/160808163759700701900075C",
+                "https://img.computerunivers.net/cp/images/544x544/160808163808100701900079K",
+                "https://img.computerunivers.net/cp/images/544x544/160808163811400701900081C"
+            ],
+            "specification":[
+                "Battery Powered", 
+                "up to 6 ppm color, up to 9 ppm b/w (ISO) USB",
+                "up to 50 Sheets Media capacity",
+                "WiFi"
+            ],
+            "price": 266 ,
+            "subCategory": "mouse&keyboard"
+        },
+        {  
+            "id": 13,
+            "name": "Logitech MX Master 3s graphite",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/230612212325200501900011O",
+                "https://img.computerunivers.net/cp/images/544x544/230612212324600501900005J",
+                "https://img.computerunivers.net/cp/images/544x544/230612212324300501900007C",
+                "https://img.computerunivers.net/cp/images/544x544/230612212323200501900003K"
+            ],
+            "specification":[
+                "Wirelesse Mouse for Gaming, Office, Multimedia", 
+                "7 Buttons, 2-Way Tilt Wheel",
+                "Power supply: integrated battery",
+                "Connection via Bluetooth"
+            ],
+            "price": 99 ,
+            "subCategory": "mouse&keyboard"
+        },
+        {  
+            "id": 14,
+            "name": "Logitech MX Keys S Combo",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/230601133832900301900081R", 
+                "https://img.computerunivers.net/cp/images/544x544/230601133823000301900069P",
+                "https://img.computerunivers.net/cp/images/544x544/230613165233200501900004E",
+                "https://img.computerunivers.net/cp/images/544x544/230601133829600301900077V"
+            ],
+            "specification":[
+                "Battery indicator, Caps Lock indicator",
+                "Logi Bolt USB receiver: Windows®, macOS, Linux.",
+                "Quiet Click feature on the mouse eliminates 90% click noise ",
+                "Logitech Darkfield™ Tracking allows mouse to track on virtually any surface"
+            ],
+            "price": 199.99 ,
+            "subCategory": "mouse&keyboard"
+        },
+        {  
+            "id": 15,
+            "name": "Logitech BRIO 4K-Webcam",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/180209093753900701900048H",
+                "https://img.computerunivers.net/cp/images/544x544/180209093753800701900056A",
+                "https://img.computerunivers.net/cp/images/544x544/180209093754500701900060Z"
+            ],
+            "specification":[
+                "Microphone, Autofocus, Facetracking", 
+                "4096 X 2160 @ 30 Images/sec.",
+                "USB C"
+            ],
+            "price": 130.99 ,
+            "subCategory": "webcam"
+        },
+        {  
+            "id": 16,
+            "name": "Logitech MX Vertical",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/210112144406600301900002F",
+                "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2021/1/pr_2021_1_22_16_39_45_772_01.jpg"
+            ],
+            "specification":[
+                "Wirelesse Mouse for Office", 
+                "Connection via Bluetooth, Unifying, USB",
+                "Right Handed usage, ergonomic design",
+                "4000 dpi (adjustable)",
+                "4 Buttons (progammable), 4-Way Tilt Wheel"
+            ],
+            "price": 120.99 ,
+            "subCategory": "mouse&keyboard"
+        }
+
+    ]
+    },
+    {
+        "title": "games&entertainment",
+        "items": [{  
+            "id": 17,
+            "name": "Microsoft Xbox Series X",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/240212090920500501900002W",
+                "https://img.computerunivers.net/cp/images/544x544/200918103050100601900051K"
+            ],
+            "specification":[
+                "1 TB SSD NVMe",
+                "HDMI out- (x1) ,USB 3.2 Gen 1 - (x3), RJ-45 (LAN) - (x1)",
+                "Xbox Series Controller"
+
+            ],
+            "price": 500 ,
+            "subCategory": "console"
+        },
+        {  
+            "id": 18,
+            "name": "Microsoft Xbox Elite Wireless Controller Series 2",
+            "imageUrl":[
+            "https://img.computerunivers.net/cp/images/544x544/191223112723500301900057B",
+            "https://img.computerunivers.net/cp/images/544x544/191223112723300301900053J",
+            "https://img.computerunivers.net/cp/images/544x544/191223112723300301900063Z",
+            "https://img.computerunivers.net/cp/images/544x544/191223112723800301900051T"
+            ],
+            "specification":[
+                "USB-C",
+                "Custom Button mapping",
+                "Adjustible-tension  thumbsitcks", 
+                "Carrying case"
+            ],
+            "price": 151 ,
+            "subCategory": "controller"
+        },
+        {  
+            "id": 19,
+            "name": "Seagate Xbox Series X|S 1TB SSD",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/201209155411900301900062H",
+                "https://img.computerunivers.net/cp/images/544x544/201209155416400301900068K",
+                "https://img.computerunivers.net/cp/images/544x544/201209155419400301900072F"
+                ],
+            "specification":[
+            "1 TB Solid State Hard Drive",
+            "3750 Megabits Per Second",
+            "Storage Expansion Card for Xbox Series X"
+
+            ],
+            "price": 150 ,
+            "subCategory": "console accessories"
+        },
+        {  
+            "id": 20,
+            "name": "ASUS ROG Raikiri Pro",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/230719183843400301900073A",
+                "https://img.computerunivers.net/cp/images/544x544/230719183839300301900057B",
+                "https://img.computerunivers.net/cp/images/544x544/230719183842500301900069U",
+                "https://img.computerunivers.net/cp/images/544x544/230719183842900301900065K"
+            ],
+            "specification":[
+                "Controller for PC, Xbox One, Xbox Series X, Xbox Series S",
+                "Wirelesser Connection via Bluetooth, USB, 2.4 GHz",
+                "Rumble / Vibration"
+            ],
+            "price": 157.21,
+            "subCategory": "controller"
+        },
+        {  
+            "id": 21,
+            "name": "Microsoft Xbox Wireless Controller",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/200929131413400601900062X",
+                "https://img.computerunivers.net/cp/images/544x544/200929131412100601900058O",
+                "https://img.computerunivers.net/cp/images/544x544/200929131412100601900060I"
+            ],
+            "specification":[
+                "Controller for PC, Xbox One, Xbox Series X, Xbox Series S",
+                "Wirelesser Connection via Bluetooth, USB, 2.4 GHz"
+            ],
+            "price": 50 ,
+            "subCategory": "controller"
+        },
+        {  
+            "id": 22,
+            "name": "Xbox Series S ",
+            "imageUrl":[
+            "https://img.computerunivers.net/cp/images/544x544/231009081149500301900056F",
+            "https://img.computerunivers.net/cp/images/544x544/231009081149100301900040D",
+            "https://img.computerunivers.net/cp/images/544x544/231009081149100301900042Q"
+            ],
+            "specification":[
+            "512 GB SSD",
+            "Up to 120 frames per second",
+            "Gaming resolution: 1440p", 
+            "HDMI features: Auto Low Latency Mode. HDMI Variable Refresh Rate. AMD FreeSync."
+            ],
+            "price": 340 ,
+            "subCategory": "console"
         }
     ]
+    },
+    {
+        "title": "laptops&pcs",
+        "items": [{  
+            "id": 23,
+            "name": "Apple MacBook Pro 14' 2023 M3 Pro",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/231031030533900301900068V",
+                "https://img.computerunivers.net/cp/images/544x544/231031030534000301900070B",
+                "https://img.computerunivers.net/cp/images/544x544/231031030538600301900084A"
+            ],
+            "specification":[
+                "Apple M3 Pro",
+                "18 GB RAM",
+                "512 GB SSD"
+            ],
+            "price": 2300 ,
+            "subCategory": "laptop"
+        },
+        {  
+            "id": 24,
+            "name": "ASUS ROG Zephyrus M16",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/220928145034300301900075Q",
+                "https://img.computerunivers.net/cp/images/544x544/220928145034300301900071Z",
+                "https://img.computerunivers.net/cp/images/544x544/220928145034600301900059C",
+                "https://img.computerunivers.net/cp/images/544x544/220928145034300301900073Y"
+            ],
+            "specification":[
+                "Display: 2560 x 1600, 165Hz, FreeSync, IPS, non-glare",
+                "NVIDIA® GeForce® RTX 3050 Ti 4.0 GB",
+                "Intel Core™ i7-12700H 14x 3.50 GHz",
+                "16 GB RAM, 512 GB SSD"
+            ],
+            "price": 1200 ,
+            "subCategory": "laptop"
+        },
+        {  
+            "id": 25,
+            "name": "ASUS ProArt StudioBook 16",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/240117090105100301900051H",
+                "https://img.computerunivers.net/cp/images/544x544/240117090105800301900067W",
+                "https://img.computerunivers.net/cp/images/544x544/240117090105800301900063Y",
+                "https://img.computerunivers.net/cp/images/544x544/240117090105000301900053W"
+            ],
+            "specification":[
+                "Intel® Core™ i9-13980HX",
+                "32 GB RAM, 2 TB SSD",
+                "NVIDIA GeForce RTX4070",
+                "Windows 11 Home 64 Bit"
+            ],
+            "price": 3350 ,
+            "subCategory": "laptop"
+        },
+        {  
+            "id": 26,
+            "name": "Apple MacBook Air 13.6",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/220614095624400501900051Y",
+                "https://img.computerunivers.net/cp/images/544x544/220614095624600501900059P",
+                "https://img.computerunivers.net/cp/images/544x544/220614095624300501900041J"
+            ],
+            "specification":[
+                "Display: 2560 x 1664, IPS, glare",
+                "Apple M2 (8c) 8x 2.40 GHz",
+                "M2 GPU (8C) Shared Memory",
+                "16 GB RAM, 512 GB SSD"
+            ],
+            "price": 1700 ,
+            "subCategory": "laptop"
+        },
+        {  
+            "id": 27,
+            "name": "Apple Mac mini",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/230117165043900601900002C",
+                "https://img.computerunivers.net/cp/images/544x544/230117165046100601900010X",
+                "https://img.computerunivers.net/cp/images/544x544/230117165044700601900004M"
+            ],
+            "specification":[
+                "mini-PC-PC, macOS 64 Bit",
+                "Apple M2 (8c) 8x 2.40 GHz",
+                "8 GB RAM, 256 GB SSD",
+                "Wi-Fi 6E (802.11ax), 2x Thunderbolt 4, 2x USB 3.1 Gen1"
+            ],
+            "price": 629.20 ,
+            "subCategory": "mini pc"
+        },
+        {  
+            "id": 28,
+            "name": "Apple iMac 24' Retina 4,5K 2023",
+            "imageUrl":[
+                "https://img.computerunivers.net/cp/images/544x544/231031051955300301900002V",
+                "https://img.computerunivers.net/cp/images/544x544/231031051956400301900006C",
+                "https://img.computerunivers.net/cp/images/544x544/231031051955500301900004U"
+            ],
+            "specification":[
+                "Apple M3",
+                "8 GB RAM",
+                "256 GB SSD",
+                "Apple M3 - 8 Core",
+                "Retina 4,5K "
+            ],
+            "price": 1460.61 ,
+            "subCategory": "Desktop"
+        }]
     }
-
 ]

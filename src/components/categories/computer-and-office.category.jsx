@@ -1,6 +1,6 @@
-import { CategoryPreview } from "../../category-preview/category-preview.component";
+import { CategoryPreview } from "../category-preview/category-preview.component";
 import { useContext, useState } from "react";
-import { CategoriesContext } from "../../contexts/categories.context";
+import { CategoriesContext } from "../contexts/categories.context";
 import { useEffect } from "react";
 
 export const ComputerAndOffice = () => {

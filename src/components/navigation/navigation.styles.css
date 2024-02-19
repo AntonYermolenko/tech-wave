@@ -14,7 +14,7 @@
 }
 
 .search-box-input{
-
+    visibility: hidden;
     height: 40px;
     width: 600px;
     font-family: Arial, Helvetica, sans-serif;
